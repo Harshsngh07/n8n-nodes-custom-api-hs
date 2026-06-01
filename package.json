@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-custom-api-hs",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Custom API node for n8n test by hs",
 	"license": "MIT",
 	"homepage": "",
