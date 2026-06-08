@@ -43,7 +43,7 @@
 		"eslint": "9.29.0",
 		"n8n": "^2.22.5",
 		"prettier": "3.8.3",
-		"release-it": "20.0.1",
+		"release-it": "20.2.0",
 		"typescript": "5.9.3"
 	},
 	"peerDependencies": {
